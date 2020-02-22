@@ -1,5 +1,10 @@
 ### Installation <a id="installation"></a>
 
+- install node
+
+- install yarn:
+Read the [Installation Guide](https://yarnpkg.com/en/docs/install) on yarn website for detailed instructions on how to install Yarn.
+
 - install packages
 ```commandline
 yarn
