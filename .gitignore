@@ -1,0 +1,12 @@
+.idea
+.vscode
+.DS_Store
+dist
+node_modules
+npm-debug.log
+coverage
+allure-results
+tslint-report
+TESTS-*.xml
+src/assets/svg-icons/dest
+.cache-loader
