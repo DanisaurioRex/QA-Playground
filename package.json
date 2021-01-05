@@ -14,7 +14,7 @@
     "test": "NODE_ENV=test npm run protractor"
   },
   "dependencies": {
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "chai": "^4.2.0",
     "chromedriver": "2.40.0",
     "config": "3.0.1",
